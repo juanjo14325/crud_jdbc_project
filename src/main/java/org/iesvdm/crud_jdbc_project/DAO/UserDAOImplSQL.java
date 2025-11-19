@@ -58,9 +58,6 @@ public class UserDAOImplSQL implements UserDAO {
                                                                         .build()
                                                                     , username);
 
-        
-
-
         return user;
     }
 
